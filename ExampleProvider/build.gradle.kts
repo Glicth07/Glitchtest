@@ -9,8 +9,8 @@ version = 1
 cloudstream {
     // All of these properties are optional, you can safely remove any of them.
 
-    description = "Lorem ipsum"
-    authors = listOf("Cloudburst", "Luna712")
+    description = "Kuronime"
+    authors = listOf("Glicth07")
 
     /**
     * Status int as one of the following:
@@ -21,13 +21,16 @@ cloudstream {
     **/
     status = 1 // Will be 3 if unspecified
 
-    tvTypes = listOf("Movie")
-
+    tvTypes = listOf(
+        "AnimeMovie",
+        "Anime",
+        "OVA",
+    )
     requiresResources = true
-    language = "en"
+    language = "id"
 
     // Random CC logo I found
-    iconUrl = "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png"
+    iconUrl = "https://play-lh.googleusercontent.com/EFMkS1T-8txjLFIl9QxjcTRLa7a7Muv08C04b7ongYgodoY_b2T3GpxzGAQEx-eitfQ=w256"
 }
 
 android {
