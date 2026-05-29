@@ -18,5 +18,30 @@
         "description": "Lorem ipsum",
         "url": "https://raw.githubusercontent.com/recloudstream/TestPlugins/builds/ExampleProvider.cs3",
         "name": "ExampleProvider"
+    },
+
+    {
+        "iconUrl": "https://play-lh.googleusercontent.com/EFMkS1T-8txjLFIl9QxjcTRLa7a7Muv08C04b7ongYgodoY_b2T3GpxzGAQEx-eitfQ=w256",
+        "fileHash": "sha256-1ea8be8423eac532ea65cb96e6e506398db8965f7ced1cda0b48436ec9e376c0",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Glicth07/Gitchtest",
+        "fileSize": 38342,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Glicth07"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 3,
+        "internalName": "KuronimeProvider",
+        "description": "Kuronime \u2014 Streaming Anime Subtitle Indonesia",
+        "url": "https://raw.githubusercontent.com/Glicth07/Glitchtest/builds/KuronimeProvider.cs3",
+        "name": "KuronimeProvider"
     }
+    
 ]
+
